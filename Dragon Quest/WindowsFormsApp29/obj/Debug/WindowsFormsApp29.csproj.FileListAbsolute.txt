@@ -1,0 +1,30 @@
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.AssemblyReference.cache
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Form1.resources
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Properties.Resources.resources
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.GenerateResource.cache
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.CoreCompileInputs.cache
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe.config
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.pdb
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.exe
+F:\程式設計\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.pdb
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe.config
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.pdb
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.AssemblyReference.cache
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Form1.resources
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Properties.Resources.resources
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.GenerateResource.cache
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.CoreCompileInputs.cache
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.exe
+F:\程式設計\滅龍魔島士\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.pdb
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe.config
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.pdb
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.AssemblyReference.cache
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Form1.resources
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Properties.Resources.resources
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.GenerateResource.cache
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.CoreCompileInputs.cache
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.exe
+C:\Users\a0928\OneDrive\桌面\All\程式\team春假作業_陳聖璋_11033229\Dragon Quest\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.pdb
